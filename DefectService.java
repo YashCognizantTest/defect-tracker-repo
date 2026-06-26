@@ -1,4 +1,3 @@
-package com.genspark.qa;
 
 import java.util.List;
 
